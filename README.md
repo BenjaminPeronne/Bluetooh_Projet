@@ -1,15 +1,14 @@
 # Bluetooh_Projet
 
-<div align='center' style='font-size: 20px;'>
-    Analyse du besoin
+<div align='center' style='font-size: 30px;'>
+    Analysis of the need
 </div>
-
 
 * Communication application with a Bluetooth keyboard allowing the entry of mathematical characters (Python language, Tkinter Modules, Pyserial).
 
 * From a keyboard connected in Bluetooth with the computer, retrieve the code of the keys typed and integrate the mathematical symbols in the text area of the application.
 
-<div align='center' style='font-size: 25px;'>
+<div align='center' style='font-size: 30px;'>
     How to start
 </div>
 
@@ -39,7 +38,7 @@ import codecs
 import tkFont
 ```
 
-# *Main Code*
+## *Main Code*
 
 ```python
 #-------------------------------------------------------#
